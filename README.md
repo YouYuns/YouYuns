@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
 ---
