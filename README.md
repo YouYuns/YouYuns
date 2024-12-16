@@ -1,7 +1,7 @@
-## Hi there 👋
-
+🌱 Tech Stack 🌱
 
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
+![Java](
 <!--
 **YouYuns/YouYuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
